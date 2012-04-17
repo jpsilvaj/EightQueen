@@ -1,0 +1,30 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package test;
+import org.junit.*;
+
+/**
+ *
+ * @author Paulo
+ */
+public class TesteIndividuo {
+    
+    private 
+    
+    @Before public void criaIndividuo(){
+        
+        Individuo individuo = new Individuo();    
+        
+    
+    }
+    
+    @Test public void testeCriacaoIndividuo(){
+        
+        
+        
+    }
+    
+    
+}
